@@ -166,5 +166,13 @@
     "category": "Exhibitions",
     "url": "families/magnetic-lab/index.html",
     "preview": "previews/magnetic-lab.png"
+  },
+  {
+    "id": "future-self-station",
+    "title": "Future Self Station",
+    "ar": "محطة شخصية رقمية تفاعلية",
+    "category": "Digital Media",
+    "url": "families/future-self-station/index.html",
+    "preview": "previews/future-self-station.png"
   }
 ]
