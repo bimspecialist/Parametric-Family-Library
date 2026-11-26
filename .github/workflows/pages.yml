@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['families/**','families.json','index.html','.github/workflows/pages.yml']
+    paths: ['families/**','families.json','index.html','assets/**','scripts/**','.github/workflows/pages.yml']
 permissions:
   contents: read
   pages: write
@@ -22,6 +22,7 @@ jobs:
       - run: npm install --no-save playwright
       - run: npx playwright install --with-deps chromium
       - run: node scripts/previews.cjs
+      - run: node scripts/brand-smoke.cjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
