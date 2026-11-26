@@ -182,5 +182,13 @@
     "category": "Digital Media",
     "url": "families/game-wall/index.html",
     "preview": "previews/game-wall.png"
+  },
+  {
+    "id": "infinite-art-factory",
+    "title": "Infinite Art Factory",
+    "ar": "جدار الفن التوليدي التفاعلي",
+    "category": "Digital Media",
+    "url": "families/infinite-art-factory/index.html",
+    "preview": "previews/infinite-art-factory.png"
   }
 ]
