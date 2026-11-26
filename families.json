@@ -174,5 +174,13 @@
     "category": "Digital Media",
     "url": "families/future-self-station/index.html",
     "preview": "previews/future-self-station.png"
+  },
+  {
+    "id": "game-wall",
+    "title": "Game Wall",
+    "ar": "جدار ألعاب تفاعلي بالحركة",
+    "category": "Digital Media",
+    "url": "families/game-wall/index.html",
+    "preview": "previews/game-wall.png"
   }
 ]
