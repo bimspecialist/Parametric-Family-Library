@@ -1,0 +1,162 @@
+[
+  {
+    "id": "wave-wall",
+    "title": "Parametric Wave Wall",
+    "ar": "جدار خشبي متموج",
+    "category": "Feature Walls",
+    "url": "families/wave-wall/index.html",
+    "preview": "previews/wave-wall.png"
+  },
+  {
+    "id": "heritage-wall",
+    "title": "Heritage Wall",
+    "ar": "جدار التراث",
+    "category": "Feature Walls",
+    "url": "families/heritage-wall/index.html",
+    "preview": "previews/heritage-wall.png"
+  },
+  {
+    "id": "kinetic-exhibit",
+    "title": "Kinetic Mechanical Exhibit",
+    "ar": "معرض ميكانيكي",
+    "category": "Exhibitions",
+    "url": "families/kinetic-exhibit/index.html",
+    "preview": "previews/kinetic-exhibit.png"
+  },
+  {
+    "id": "prism-wall",
+    "title": "Prism Wall",
+    "ar": "جدار زجاجي منشوري",
+    "category": "Feature Walls",
+    "url": "families/prism-wall/index.html",
+    "preview": "previews/prism-wall.png"
+  },
+  {
+    "id": "smart-garden",
+    "title": "Smart Garden",
+    "ar": "حديقة ذكية",
+    "category": "Landscape",
+    "url": "families/smart-garden/index.html",
+    "preview": "previews/smart-garden.png"
+  },
+  {
+    "id": "decision-theatre",
+    "title": "Decision Theatre",
+    "ar": "مسرح القرارات",
+    "category": "Collaborative Spaces",
+    "url": "families/decision-theatre/index.html",
+    "preview": "previews/decision-theatre.png"
+  },
+  {
+    "id": "knowledge-tree",
+    "title": "Knowledge Tree",
+    "ar": "شجرة المعرفة",
+    "category": "Installations",
+    "url": "families/knowledge-tree/index.html",
+    "preview": "previews/knowledge-tree.png"
+  },
+  {
+    "id": "modular-seating",
+    "title": "Modular Seating",
+    "ar": "جلسات معيارية",
+    "category": "Furniture",
+    "url": "families/modular-seating/index.html",
+    "preview": "previews/modular-seating.png"
+  },
+  {
+    "id": "neural-garden",
+    "title": "Neural Garden",
+    "ar": "الحديقة العصبية",
+    "category": "Lighting",
+    "url": "families/neural-garden/index.html",
+    "preview": "previews/neural-garden.png"
+  },
+  {
+    "id": "daily-mystery",
+    "title": "Daily Mystery",
+    "ar": "محطة ألغاز",
+    "category": "Digital Media",
+    "url": "families/daily-mystery/index.html",
+    "preview": "previews/daily-mystery.png"
+  },
+  {
+    "id": "knowledge-exchange",
+    "title": "Knowledge Exchange",
+    "ar": "جلسات تعلم تعاوني",
+    "category": "Furniture",
+    "url": "families/knowledge-exchange/index.html",
+    "preview": "previews/knowledge-exchange.png"
+  },
+  {
+    "id": "idea-generator",
+    "title": "Idea Generator",
+    "ar": "جدار الأفكار",
+    "category": "Digital Media",
+    "url": "families/idea-generator/index.html",
+    "preview": "previews/idea-generator.png"
+  },
+  {
+    "id": "collaboration-orchestra",
+    "title": "Collaboration Orchestra",
+    "ar": "تركيب ضوئي تعاوني",
+    "category": "Lighting",
+    "url": "families/collaboration-orchestra/index.html",
+    "preview": "previews/collaboration-orchestra.png"
+  },
+  {
+    "id": "smart-book-wall",
+    "title": "Smart Book Wall",
+    "ar": "أرفف ذكية",
+    "category": "Furniture",
+    "url": "families/smart-book-wall/index.html",
+    "preview": "previews/smart-book-wall.png"
+  },
+  {
+    "id": "digital-portals",
+    "title": "Digital Portals",
+    "ar": "ألواح عرض رقمية",
+    "category": "Digital Media",
+    "url": "families/digital-portals/index.html",
+    "preview": "previews/digital-portals.png"
+  },
+  {
+    "id": "one-minute-museum",
+    "title": "One-Minute Museum",
+    "ar": "محطات عرض متحفية",
+    "category": "Exhibitions",
+    "url": "families/one-minute-museum/index.html",
+    "preview": "previews/one-minute-museum.png"
+  },
+  {
+    "id": "future-archive",
+    "title": "Future Archive",
+    "ar": "أرشيف الابتكارات",
+    "category": "Exhibitions",
+    "url": "families/future-archive/index.html",
+    "preview": "previews/future-archive.png"
+  },
+  {
+    "id": "human-orchestra",
+    "title": "Human Orchestra",
+    "ar": "الأوركسترا البشرية",
+    "category": "Lighting",
+    "url": "families/human-orchestra/index.html",
+    "preview": "previews/human-orchestra.png"
+  },
+  {
+    "id": "sound-of-knowledge",
+    "title": "Sound of Knowledge",
+    "ar": "جدار صوت المعرفة",
+    "category": "Digital Media",
+    "url": "families/sound-of-knowledge/index.html",
+    "preview": "previews/sound-of-knowledge.png"
+  },
+  {
+    "id": "reception-desk",
+    "title": "Reception Desk",
+    "ar": "طاولة استقبال",
+    "category": "Furniture",
+    "url": "families/reception-desk/index.html",
+    "preview": "previews/reception-desk.png"
+  }
+]
