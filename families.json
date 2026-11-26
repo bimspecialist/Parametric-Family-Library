@@ -190,5 +190,13 @@
     "category": "Digital Media",
     "url": "families/infinite-art-factory/index.html",
     "preview": "previews/infinite-art-factory.png"
+  },
+  {
+    "id": "holographic-professor",
+    "title": "Holographic Professor",
+    "ar": "محطة تعليم هولوغرافية تفاعلية",
+    "category": "Digital Media",
+    "url": "families/holographic-professor/index.html",
+    "preview": "previews/holographic-professor.png"
   }
 ]
