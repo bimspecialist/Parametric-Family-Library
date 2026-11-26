@@ -198,5 +198,13 @@
     "category": "Digital Media",
     "url": "families/holographic-professor/index.html",
     "preview": "previews/holographic-professor.png"
+  },
+  {
+    "id": "digital-window-to-space",
+    "title": "Digital Window to Space",
+    "ar": "شاشة بانورامية لاستكشاف الفضاء",
+    "category": "Digital Media",
+    "url": "families/digital-window-to-space/index.html",
+    "preview": "previews/digital-window-to-space.png"
   }
 ]
