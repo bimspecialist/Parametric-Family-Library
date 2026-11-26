@@ -158,5 +158,13 @@
     "category": "Furniture",
     "url": "families/reception-desk/index.html",
     "preview": "previews/reception-desk.png"
+  },
+  {
+    "id": "magnetic-lab",
+    "title": "Magnetic Lab",
+    "ar": "معرض علوم مغناطيسية تفاعلي",
+    "category": "Exhibitions",
+    "url": "families/magnetic-lab/index.html",
+    "preview": "previews/magnetic-lab.png"
   }
 ]
